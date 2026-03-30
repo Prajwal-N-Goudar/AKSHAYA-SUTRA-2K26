@@ -1,4 +1,4 @@
-import Navbar from "./components/Navbar.jsx"
+import Navbar from "./components/NavbarComponent.jsx"
 import Hero from "./components/Hero.jsx"
 import About from "./components/About.jsx"
 import Prizes from "./components/Prizes.jsx"
