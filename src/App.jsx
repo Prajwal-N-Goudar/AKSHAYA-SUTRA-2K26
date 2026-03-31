@@ -9,6 +9,7 @@ import Particles from "./components/Particles"
 import Footer from "./components/Footer"
 import Countdown from "./components/Countdown"
 import Tracks from "./components/Tracks"
+import Patrons from "./components/Patrons"
 
 import "./App.css"
 
@@ -26,6 +27,7 @@ return(
 <Tracks/>
 <Prizes/>
 <Timeline/>
+<Patrons/>
 <Team/>
 <Contact/>
 
